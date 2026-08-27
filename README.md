@@ -1,3 +1,4 @@
+Marie Curie 
 **Cena 07: O Coeficiente de Restituição (e)** 
 - Tempo: 04:15 - 04:35 (20 segundos).
 - Transição: Zoom Out.
