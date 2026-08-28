@@ -121,4 +121,43 @@ O Coeficiente de Restituição (e)
 - Transição: Zoom Out. 
 - Narração: "Para quantificar essa elasticidade, usamos o Coeficiente de Restituição $e$, variando de 0, para colisões perfeitamente inelásticas, a 1, para colisões perfeitamente elásticas."  
 - Elementos Visuais: Animação de uma régua/escala graduada horizontal mostrando a variação de e = 0 até $e = 1. Pequenas ilustrações nas extremidades mostram corpos grudando no ponto zero e quicando no ponto um. 
-- Equações Matemáticas: e = v afastamento/ v aproximação = v2f – v1f / v1i – v2i. 
+- Equações Matemáticas: e = v afastamento/ v aproximação = v2f – v1f / v1i – v2i.
+
+  > Estratégia de Divulgação:
+
+1. Público-alvo da divulgação: Estudantes de Engenharia da UERJ, turmas de Física 
+Geral I, alunos do Ensino Médio e grupos acadêmicos de estudo. 
+2. Canais de divulgação: WhatsApp (grupos da faculdade, grupos familiares e amigos 
+em geral), Instagram (Stories e Reels), LinkedIn, TikTok e YouTube Shorts.
+3. Cronograma de Postagens:
+   
+**Dia 1** (Lançamento Oficial & Disparo Inicial):
+1. Disparo em massa do link oficial do canal nos grupos de WhatsApp das turmas de 
+Engenharia e Centros Acadêmicos da UERJ. 
+2. Postagem sincronizada dos 6 integrantes nos Stories do Instagram anunciando o 
+lançamento.
+
+**Dia 2 e 3** (Atração por Vídeo Curto e Redes Profissionais):
+1. Publicação de um Reels/TikTok/Shorts com o corte de 15 segundos do momento 
+exato do impacto do experimento e o cálculo de 50% de perda de energia, com link 
+direcionando para o vídeo completo no YouTube. 
+2. Publicação no LinkedIn detalhando a metodologia do projeto acadêmico de Física I e 
+simulação computacional.
+
+**Dia 4 e 5** (Fóruns Científicos e Engajamento Interativo):
+1. Postagem explicativa em fóruns de estudo e comunidades (Reddit r/fisica, Fórum 
+PiR2, canais de Discord de exatas). 
+2. Aplicação de enquetes interativas nos Stories do Instagram ("Para onde vai a energia 
+em uma colisão inelástica?") levando o público a assistir à resposta no vídeo. 
+3. Envio do link para monitores e professores de Física de ensino médio/graduação para 
+recomendação aos alunos.
+
+**Dia 6 e 7** (Reta Final & Consolidação de Métricas):
+1. Segunda onda de compartilhamentos em grupos diretos de WhatsApp e redes de 
+contatos pessoais. 
+2. Resposta ativa a todos os comentários no YouTube para estimular o engajamento e o 
+algoritmo da plataforma. 
+3. Captura final de tela do YouTube Analytics ao completar 7 dias para comprovação das 
+visualizações e montagem do relatório no README.
+
+Responsável pela divulgação: Integrantes do grupo Marie Curie
