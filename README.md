@@ -186,35 +186,36 @@ visualizações e montagem do relatório no README.
 Responsável pela divulgação: Integrantes do grupo Marie Curie8. 
 
 **Fontes de Pesquisa:**
-HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física,
+- HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física,
 Volume 1: Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Capítulo 9: Centro de Massa
 e Momento Linear (pp. 235-260).
-SEARS, Francis W.; ZEMANSKY, Mark W.; YOUNG, Hugh D.; FREEDMAN,
+- SEARS, Francis W.; ZEMANSKY, Mark W.; — - YOUNG, Hugh D.; FREEDMAN,
 Roger A. Física I: Mecânica. 14. ed. São Paulo: Pearson, 2016.
-NUSSENZVEIG, H. Moysés. Curso de Física Básica, Vol. 1: Mecânica. 5. ed. São
+- NUSSENZVEIG , H. Moysés. Curso de Física Básica, Vol. 1: Mecânica. 5. ed. São
 Paulo: Blucher, 2013.
-YOUNG, Hugh D.; FREEDMAN, Roger A. Sears e Zemansky: física I – mecânica.
+- YOUNG, Hugh D.; FREEDMAN, Roger A. Sears e Zemansky: física I – mecânica.
 12. ed. São Paulo: Pearson Education do Brasil, 2008. Bbiblioteca.iftm.edu.br
-HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentals of physics.
+- HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentals of physics.
 12. ed. Hoboken: Wiley, 2022. Ppsrc.aapt.org
-MOEBS, William; LING, Samuel J.; SANNY, Jeff. University physics volume 1.
+- MOEBS, William; LING, Samuel J.; SANNY, Jeff. University physics volume 1.
 Houston: OpenStax, 2016. Disponível em: https://openstax.org/books/university-
 physics-volume-1. Acesso em: 26 ago. 2026. OpenStax
- OPENSTAX. Physics: 8.3 Elastic and Inelastic Collisions. Houston: OpenStax, 2020.
+- OPENSTAX. Physics: 8.3 Elastic and Inelastic Collisions. Houston: OpenStax, 2020.
 Disponível em: Acesso em: 26 ago. 2026. OOpenStax
-MOEBS, William; LING, Samuel J.; SANNY, Jeff. University Physics Volume 1.
+- MOEBS, William; LING, Samuel J.; SANNY, Jeff. University Physics Volume 1.
 Houston: OpenStax, 2016. Disponível em: OpenStax – University Physics Volume 1.
 Acesso em: 26 ago. 2026. OOpenStax
-RESNICK, Robert; WALKER, Jearl; HALLIDAY, David. Fundamentos de Física:
+- RESNICK, Robert; WALKER, Jearl;
+- HALLIDAY, David. Fundamentos de Física:
 volume 1 – Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Essa obra é indicada pela
 PUC-Rio para conteúdos de momento linear, conservação do momento e colisões.
 PPUC-Rio
-YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica. 12. ed. São Paulo:
+- YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica. 12. ed. São Paulo:
 Pearson, 2009. PPUC-Rio
- NOBEL PRIZE OUTREACH. Marie Curie – Facts: Nobel Prize in Physics 1903.
+- NOBEL PRIZE OUTREACH. Marie Curie – Facts: Nobel Prize in Physics 1903.
 Stockholm: Nobel Prize Outreach, 2026. Disponível em: Nobel Prize – Marie Curie.
 Acesso em: 26 ago. 2026. PPrémio Nobel
- NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST).
+- NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST).
 Biography of Marie Sklodowska Curie. Gaithersburg: NIST, 2026. Disponível em:
 NIST – Biography of Marie Sklodowska Curie. Acesso em: 26 ago. 20
 
