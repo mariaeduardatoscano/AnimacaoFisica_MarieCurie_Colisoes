@@ -34,7 +34,7 @@ do impacto.
 > Público-Alvo:
 
 Estudantes universitários de Engenharia, alunos do Ensino Médio em preparação para
-vestibulares, e entusiastas pelo tema.
+vestibulares, e entusiastas pela temática.
 
 > Objetivo Educacional:
 
