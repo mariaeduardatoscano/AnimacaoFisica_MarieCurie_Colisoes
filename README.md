@@ -88,3 +88,37 @@ de movimento total antes do impacto é igual à de depois."
 amarrado. Setas para indicar a direção do movimento do balão e a saída do ar.
 - Equações Matemáticas: p antes = p depois => m1v1 + m2v2 = m1v1f + m2v2f.
 
+**Cena 04**
+Colisão Perfeitamente Elástica" 
+
+- Tempo: 02:00 - 02:35 (35 segundos). 
+- Transição: Fade (transição suave).  
+- Narração: "Na colisão ELÁSTICA, além do momento, a Energia Cinética total do sistema se conserva integralmente, sem perdas por calor ou deformação."  
+- Elementos Visuais: Duas bolas de sinuca se aproximando em uma mesa, mantendo o selo “Sistema aproximadamente Isolado (Fext = 0)” e as setas indicando os momentos inicial e final. Ao lado do vídeo real, um gráfico de barras animado ilustra que o nível de energia cinética inicial Ki é 100\% igual ao final Kf.  
+- Equações Matemáticas: K antes = K depois => ½ m1v12i + ½ m2v22i = ½ m1v12f + ½ m2v22f. 
+
+   **Cena 05**
+Colisão Perfeitamente Inelástica 
+
+- Tempo: 03:35 - 03:55 (20 segundos). 
+- Transição: Deslizamento lateral (Wipe). 
+- Narração: "Na colisão PERFEITAMENTE INELÁSTICA, os corpos grudam no impacto e seguem juntos como um só, ocorrendo a máxima perda de energia cinética."  
+- Elementos Visuais: Gravação do experimento real onde duas pessoas estarão usando patins e no momento da colisão vão se movimentar juntas na mesma direção. Um contorno gráfico destacado envolve os dois carrinhos unidos mostrando a nova massa conjunta (m1 + m2). 
+- Equações Matemáticas: m1v1i + m2v2i = (m1 + m2) vf e Kf < Ki. 
+
+**Cena 06**
+Para Onde Vai a Energia Dissipada? 
+- Tempo: 03:55 - 04:15. (20 segundos).  
+- Transição: Corte Seco. 
+- Narração: "Essa energia cinética que 'desaparece' não é destruída, mas transformada em calor, ruído sonoro e deformação dos materiais."  
+- Elementos Visuais: Animação em gráfico de pizza sobre fundo neutro mostrando a porcentagem de energia cinética inicial sendo convertida em Energia Térmica, Onda - Sonora do impacto e Trabalho de Deformação dos objetos.  
+- Equações Matemáticas: ΔK = Kf- Ki < 0 => W dissipado = |ΔK|. 
+
+**Cena 07**
+O Coeficiente de Restituição (e) 
+
+- Tempo: 04:15 - 04:35 (20 segundos).  
+- Transição: Zoom Out. 
+- Narração: "Para quantificar essa elasticidade, usamos o Coeficiente de Restituição $e$, variando de 0, para colisões perfeitamente inelásticas, a 1, para colisões perfeitamente elásticas."  
+- Elementos Visuais: Animação de uma régua/escala graduada horizontal mostrando a variação de e = 0 até $e = 1. Pequenas ilustrações nas extremidades mostram corpos grudando no ponto zero e quicando no ponto um. 
+- Equações Matemáticas: e = v afastamento/ v aproximação = v2f – v1f / v1i – v2i. 
