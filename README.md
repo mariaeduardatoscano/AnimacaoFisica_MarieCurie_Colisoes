@@ -8,7 +8,8 @@ Giovana Menezes Teles gomes,
 Isadora Dias De Souza,
 Karina Frota da Silveira,
 Maria Eduarda Toscano e
-Rayssa Borges de Oliveira
+Rayssa Borges de Oliveira.
+
 Professora: Érika Dias Cabral
 
 > Nome e tema:
