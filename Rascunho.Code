@@ -1,0 +1,402 @@
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+from matplotlib.patches import Rectangle, Circle, Polygon
+import numpy as np
+import sys
+
+# ============================================================
+# CONFIGURAÇÕES
+# ============================================================
+
+LARGURA = 12.8
+ALTURA = 7.2
+FPS = 30
+
+# Cores
+PRETO = "#0A0A0F"
+BRANCO = "#F5F5F5"
+CINZA = "#969696"
+VERMELHO = "#D23C3C"
+AZUL = "#3C82DC"
+AMARELO = "#F0C846"
+LARANJA = "#FF7828"
+
+# ============================================================
+# CRIAÇÃO DA JANELA
+# ============================================================
+
+fig, ax = plt.subplots(figsize=(12.8, 7.2))
+
+fig.patch.set_facecolor(PRETO)
+ax.set_facecolor(PRETO)
+
+ax.set_xlim(0, LARGURA)
+ax.set_ylim(0, ALTURA)
+ax.axis("off")
+
+
+# ============================================================
+# FUNÇÕES
+# ============================================================
+
+def limpar():
+    """Limpa a tela."""
+    ax.clear()
+    ax.set_xlim(0, LARGURA)
+    ax.set_ylim(0, ALTURA)
+    ax.set_facecolor(PRETO)
+    ax.axis("off")
+
+
+def texto_central(texto, tamanho=30, y=3.6):
+    """Coloca um texto centralizado."""
+    ax.text(
+        LARGURA / 2,
+        y,
+        texto,
+        color=BRANCO,
+        fontsize=tamanho,
+        fontweight="bold",
+        ha="center",
+        va="center"
+    )
+
+
+def desenhar_carro(x, y, cor):
+    """Desenha um carro simples usando formas do Matplotlib."""
+
+    # Corpo
+    corpo = Rectangle(
+        (x, y),
+        1.8,
+        0.6,
+        facecolor=cor,
+        edgecolor=cor
+    )
+
+    ax.add_patch(corpo)
+
+    # Parte superior
+    teto = Polygon(
+        [
+            (x + 0.35, y + 0.6),
+            (x + 0.70, y + 1.0),
+            (x + 1.35, y + 1.0),
+            (x + 1.60, y + 0.6)
+        ],
+        closed=True,
+        facecolor=cor,
+        edgecolor=cor
+    )
+
+    ax.add_patch(teto)
+
+    # Janela
+    janela = Polygon(
+        [
+            (x + 0.72, y + 0.67),
+            (x + 1.05, y + 0.67),
+            (x + 1.20, y + 0.95),
+            (x + 0.75, y + 0.95)
+        ],
+        closed=True,
+        facecolor="#282832",
+        edgecolor="#282832"
+    )
+
+    ax.add_patch(janela)
+
+    # Rodas
+    roda1 = Circle(
+        (x + 0.40, y),
+        0.22,
+        facecolor=PRETO,
+        edgecolor=PRETO
+    )
+
+    roda2 = Circle(
+        (x + 1.40, y),
+        0.22,
+        facecolor=PRETO,
+        edgecolor=PRETO
+    )
+
+    ax.add_patch(roda1)
+    ax.add_patch(roda2)
+
+    # Centros das rodas
+    ax.add_patch(
+        Circle(
+            (x + 0.40, y),
+            0.09,
+            facecolor=CINZA
+        )
+    )
+
+    ax.add_patch(
+        Circle(
+            (x + 1.40, y),
+            0.09,
+            facecolor=CINZA
+        )
+    )
+
+
+def desenhar_explosao(x, y, tamanho):
+    """Desenha uma explosão estilizada."""
+
+    pontos = []
+
+    for i in range(16):
+        angulo = (2 * np.pi / 16) * i
+
+        raio = tamanho
+
+        px = x + np.cos(angulo) * raio
+        py = y + np.sin(angulo) * raio
+
+        pontos.append((px, py))
+
+    explosao = Polygon(
+        pontos,
+        closed=True,
+        facecolor=AMARELO,
+        edgecolor=AMARELO
+    )
+
+    ax.add_patch(explosao)
+
+    ax.add_patch(
+        Circle(
+            (x, y),
+            tamanho * 0.55,
+            facecolor=LARANJA,
+            edgecolor=LARANJA
+        )
+    )
+
+
+# ============================================================
+# CONTROLE DO TEMPO
+# ============================================================
+
+TEMPO_TOTAL = 40
+
+def desenhar_frame(frame):
+
+    # Tempo atual em segundos
+    tempo = frame / FPS
+
+    limpar()
+
+    # ========================================================
+    # 0 - 5 SEGUNDOS
+    # FADE IN
+    # ========================================================
+
+    if tempo < 2:
+
+        progresso = tempo / 2
+
+        # Fundo inicialmente escuro
+        alpha = progresso
+
+        texto_central(
+            "PROJETO FÍSICA",
+            tamanho=45,
+            y=4.0
+        )
+
+        ax.text(
+            LARGURA / 2,
+            3.3,
+            "Grupo Marie Curie",
+            color=BRANCO,
+            fontsize=28,
+            ha="center"
+        )
+
+        # Sobreposição escura simulando Fade In
+        if alpha < 1:
+            camada = Rectangle(
+                (0, 0),
+                LARGURA,
+                ALTURA,
+                facecolor=PRETO,
+                alpha=1 - alpha
+            )
+
+            ax.add_patch(camada)
+
+    # ========================================================
+    # 5 - 20 SEGUNDOS
+    # CARROS SE APROXIMANDO
+    # ========================================================
+
+    elif tempo < 20:
+
+        t = tempo - 5
+
+        carro_esquerdo = 0.8 + t * 0.22
+        carro_direito = 10.2 - t * 0.22
+
+        desenhar_carro(
+            carro_esquerdo,
+            3.0,
+            AZUL
+        )
+
+        desenhar_carro(
+            carro_direito,
+            3.0,
+            VERMELHO
+        )
+
+        texto_central(
+            "Tudo começou com uma colisão...",
+            tamanho=30,
+            y=6.0
+        )
+
+    # ========================================================
+    # 20 - 23 SEGUNDOS
+    # COLISÃO
+    # ========================================================
+
+    elif tempo < 23:
+
+        t = tempo - 20
+
+        desenhar_carro(
+            4.8,
+            3.0,
+            AZUL
+        )
+
+        desenhar_carro(
+            6.0,
+            3.0,
+            VERMELHO
+        )
+
+        tamanho = (
+            0.7 +
+            0.3 * np.sin(t * 8)
+        )
+
+        desenhar_explosao(
+            6.4,
+            3.4,
+            tamanho
+        )
+
+    # ========================================================
+    # 23 - 32 SEGUNDOS
+    # QUEBRA DA EXPECTATIVA
+    # ========================================================
+
+    elif tempo < 32:
+
+        texto_central(
+            "Não estamos falando de uma explosão de filme.",
+            tamanho=29,
+            y=3.6
+        )
+
+    # ========================================================
+    # 32 - 45 SEGUNDOS
+    # INTRODUÇÃO DA FÍSICA
+    # ========================================================
+
+    elif tempo < 45:
+
+        t = tempo - 32
+
+        conceitos = [
+            "MOVIMENTO",
+            "FORÇA",
+            "ENERGIA",
+            "QUANTIDADE DE MOVIMENTO"
+        ]
+
+        indice = min(
+            int(t / 3),
+            len(conceitos) - 1
+        )
+
+        texto_central(
+            "Estamos falando de Física.",
+            tamanho=32,
+            y=5.0
+        )
+
+        texto_central(
+            conceitos[indice],
+            tamanho=45,
+            y=3.2
+        )
+
+    # ========================================================
+    # 45 - 60 SEGUNDOS
+    # MARIE CURIE
+    # ========================================================
+
+    else:
+
+        # Cabeça
+        ax.add_patch(
+            Circle(
+                (6.4, 5.2),
+                0.7,
+                facecolor="#BEBEC8"
+            )
+        )
+
+        # Corpo
+        ax.add_patch(
+            Rectangle(
+                (5.85, 2.8),
+                1.1,
+                1.5,
+                facecolor="#64646E"
+            )
+        )
+
+        texto_central(
+            "MARIE CURIE",
+            tamanho=45,
+            y=1.8
+        )
+
+        ax.text(
+            6.4,
+            1.15,
+            "Perguntar • Investigar • Descobrir",
+            color=BRANCO,
+            fontsize=20,
+            ha="center"
+        )
+
+    # ========================================================
+    # ATUALIZA A TELA
+    # ========================================================
+
+    return ax,
+
+
+# ============================================================
+# ANIMAÇÃO
+# ============================================================
+
+numero_de_frames = TEMPO_TOTAL * FPS
+
+animacao = animation.FuncAnimation(
+    fig,
+    desenhar_frame,
+    frames=numero_de_frames,
+    interval=1000 / FPS,
+    blit=False,
+    repeat=False
+)
+
+plt.show()
