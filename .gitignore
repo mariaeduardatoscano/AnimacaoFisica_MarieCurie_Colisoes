@@ -1,6 +1,6 @@
-node_modules
-out
-build
-dist
+node_modules/
+out/
+build/
+dist/
 .env
 .DS_Store
