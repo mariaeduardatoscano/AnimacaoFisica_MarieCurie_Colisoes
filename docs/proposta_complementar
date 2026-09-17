@@ -1,0 +1,39 @@
+Roteiro Proposto 
+Nota de Contextualização: Este documento registra uma proposta alternativa de estrutura narrativa desenvolvida durante as etapas de briefing do projeto.
+Para a versão final do vídeo em produção, o grupo optou por seguir o roteiro oficial do repositório.
+
+Você pode decorar todas as fórmulas de Física I e ainda assim errar o que acontece depois de uma colisão. Mesmo quando as massas e as velocidades antes do impacto são iguais nos dois experimentos, duas colisões podem terminar de formas opostas: em uma, os corpos se separam; na outra, seguem juntos.
+Se a quantidade de movimento se conserva nos dois casos, o que realmente decide o final?
+Nós somos o grupo Marie Curie e, para encontrar a resposta, precisamos voltar alguns instantes: para o momento anterior ao impacto.
+“Cada corpo chega à colisão com duas grandezas fundamentais: massa e velocidade. Juntas, elas definem uma grandeza vetorial chamada quantidade de movimento linear, ou momento linear, representada por:
+p = m * v 
+
+Como a velocidade possui direção e sentido, o momento linear também possui. Em uma colisão unidimensional, adotamos um sentido como positivo e o sentido contrário como negativo.
+Durante o impacto, os corpos exercem forças um sobre o outro. As variações de seus momentos possuem o mesmo módulo e sentidos opostos. Se o sistema é fechado e o impulso externo é desprezível, o momento linear total permanece constante. 
+Assim, a soma dos momentos antes da colisão é igual à soma depois dela.”
+Mas essa conservação acontece tanto quando os corpos se separam quanto quando permanecem unidos. Por isso, o momento linear sozinho ainda não explica os dois finais. A próxima pista está na energia cinética.
+A energia cinética é a energia associada ao movimento. Ela depende da massa e do quadrado da velocidade e é calculada pela expressão:
+K= 1/2 mv^2.
+É aqui que os impactos seguem caminhos diferentes. Em uma colisão perfeitamente elástica, a energia cinética total possui o mesmo valor antes e depois do impacto.
+Em uma colisão perfeitamente inelástica, os corpos permanecem unidos e passam a se mover com a mesma velocidade final. Nesse caso, ocorre a maior perda possível de energia cinética compatível com a conservação do momento linear.
+Essa energia não desaparece. Parte dela é transferida para outras formas, como energia interna associada à deformação e ao aquecimento, além de energia sonora. A energia total continua existindo; apenas deixa de estar completamente associada ao movimento.
+Assim, a conservação do momento relaciona as velocidades antes e depois do impacto, enquanto a variação da energia cinética permite classificar a colisão.
+Na prática, muitas colisões estão entre esses dois extremos. Para medir essa diferença, utilizamos o coeficiente de restituição, representado pela letra "e".
+Ele compara a velocidade relativa de afastamento depois da colisão com a velocidade relativa de aproximação antes do impacto.
+Nas colisões que estamos analisando, "e" varia entre zero e um. Quando "e=1" , a velocidade relativa de afastamento possui o mesmo módulo da velocidade relativa de aproximação, e a colisão é perfeitamente elástica.
+Quando "e=0", não existe velocidade relativa de afastamento. Os corpos ficam com a mesma velocidade final, caracterizando uma colisão perfeitamente inelástica.”
+Quando "e" está entre zero e um, a colisão é inelástica: os corpos voltam a se separar, mas com uma velocidade relativa menor. Isso indica que parte da energia cinética foi transformada durante o impacto.
+
+Agora podemos responder parte da pergunta inicial. Mesmo com massas e velocidades anteriores ao impacto iguais, diferenças nas propriedades dos corpos ou nas condições de contato podem produzir coeficientes de restituição diferentes. 
+Em um sistema fechado e isolado, o momento linear total permanece conservado, mas o resultado final muda.
+Vamos colocar essas ideias à prova com um exemplo. Considere dois carrinhos de mesma massa, 0,2 kg. O primeiro se move a 2,0 m/s, enquanto o segundo está inicialmente em repouso.”
+Após a colisão, os carrinhos permanecem unidos. Portanto, temos uma colisão perfeitamente inelástica, com coeficiente de restituição igual a zero.”
+Aplicando a conservação do momento linear, temos:
+0,2 * 2,0 + 2,0 * 0 = (0,2 + 0,2) V
+O resultado é uma velocidade final de 1,0 m/s.
+
+Antes da colisão, a energia cinética total era de 0,4 joule. Depois, ela passa a ser 0,2 joule. Isso representa uma redução equivalente a 50% da energia cinética inicial.
+O momento linear total permaneceu igual a 0,4 kg * m/s, mas metade da energia cinética foi transformada durante o impacto.
+Então, o que realmente decide o final? A conservação do momento estabelece uma relação que não pode ser quebrada. O coeficiente de restituição mostra como os corpos respondem ao contato, enquanto a energia cinética revela quanto da energia associada ao movimento foi transformada.
+Decorar as fórmulas pode ser o começo. Mas compreender uma colisão significa saber o que se conserva, o que pode mudar e por que dois impactos semelhantes podem produzir finais completamente diferentes.
+“Nós somos o grupo Marie Curie. Obrigado por assistir.”
