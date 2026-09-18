@@ -222,3 +222,11 @@ Acesso em: 26 ago. 2026. PPrémio Nobel
 Biography of Marie Sklodowska Curie. Gaithersburg: NIST, 2026. Disponível em:
 NIST – Biography of Marie Sklodowska Curie. Acesso em: 26 ago. 20
 
+**Dashboard de Gestão do Projeto**
+![Dashboard Project Board](dashboard_kanban.png)
+
+**Link direto para o Project Board (Kanban Interativo):**
+[Acessar o Project Board do Grupo Marie Curie no GitHub](https://github.com/users/mariaeduardatoscano/projects/3
+)
+
+
