@@ -4,9 +4,9 @@
 > Alunas: 
 
 Ana Aparecida Alves da Silva Maria,
-Giovana Menezes Teles gomes,
+Giovana Menezes Teles Gomes,
 Isadora Dias De Souza,
-Karina Frota da Silveira,
+Karina Frota da Silveira Elliot,
 Maria Eduarda Toscano e
 Rayssa Borges de Oliveira.
 
