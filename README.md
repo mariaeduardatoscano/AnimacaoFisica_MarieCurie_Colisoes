@@ -106,7 +106,7 @@ Colisão Perfeitamente Inelástica
 - Tempo: 03:35 - 03:55 (20 segundos). 
 - Transição: Deslizamento lateral (Wipe). 
 - Narração: "Na colisão PERFEITAMENTE INELÁSTICA, os corpos grudam no impacto e seguem juntos como um só, ocorrendo a máxima perda de energia cinética."  
-- Elementos Visuais: Gravação do experimento real onde duas pessoas estarão usando patins e no momento da colisão vão se movimentar juntas na mesma direção. Um contorno gráfico destacado envolve os dois carrinhos unidos mostrando a nova massa conjunta (m1 + m2). 
+- Elementos Visuais: Dois carrinhos de brinquedo deslizam sobre uma superfície lisa, aproximando-se um do outro. Um deles está em movimento, e no momento do impacto, eles se engatam e passam a se mover juntos como um único corpo, essa é a característica que define a colisão perfeitamente inelástica. Um contorno gráfico destacado envolve os dois carrinhos unidos mostrando a nova massa conjunta (m1 + m2). 
 - Equações Matemáticas: m1v1i + m2v2i = (m1 + m2) vf e Kf < Ki. 
 
 **Cena 06**
