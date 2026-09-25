@@ -42,12 +42,10 @@ vestibulares, e entusiastas pela temática.
 > Objetivo Educacional:
 
 Ao final do vídeo, o espectador deverá ser capaz de:
-1. Aplicar o Princípio de Conservação da Quantidade de Movimento Linear (P inicial = P
-final) em colisões unidimensionais de sistemas isolados.
-2. Diferenciar colisões elásticas (e = 1) e perfeitamente inelásticas (e = 0) pela análise da
-Energia Cinética (K) e do Coeficiente de Restituição (e).
-Calcular a velocidade final e a perda percentual de energia cinética em um experimento
-real gravado.
+
+1. Aplicar o Princípio de Conservação da Quantidade de Movimento Linear (P inicial = P final) em colisões unidimensionais de sistemas isolados.
+2. Diferenciar colisões elásticas (e = 1) e perfeitamente inelásticas (e = 0) pela análise da Energia Cinética (K) e do Coeficiente de Restituição (e).
+Calcular a velocidade final e a perda percentual de energia cinética em um experimento real gravado.
 
  > Storyboard
 
@@ -60,8 +58,7 @@ real gravado.
 (Som de batida).
 Aparece a colisão em câmera lenta.
 “Não, não estamos falando de uma explosão de filme.”(Pausa).
-“Estamos falando de Física. Uma história sobre movimento, força, energia e quantidade de
-movimento.”
+“Estamos falando de Física. Uma história sobre movimento, força, energia e quantidade de movimento.”
 Aparece o nome do grupo:
 MARIE CURIE
 “Escolhemos Marie Curie porque sua trajetória representa aquilo que a ciência busca: fazer
