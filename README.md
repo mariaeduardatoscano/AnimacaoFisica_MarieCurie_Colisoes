@@ -15,8 +15,7 @@ Rayssa Borges de Oliveira.
 Érika Dias Cabral
 
 > Nome e tema:
-Colisões
-
+Nome: Colisões Curie.
 Grupo: Marie Curie.
 Tema: Colisões
 
