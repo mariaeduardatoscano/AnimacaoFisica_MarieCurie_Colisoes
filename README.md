@@ -12,7 +12,7 @@ Rayssa Borges de Oliveira.
 
 > Professora:
 
-Érika Dias Cabral
+Érika Dias Cabral.
 
 > Nome e tema:
 Nome: Colisões Curie.
@@ -21,7 +21,7 @@ Tema: Colisões
 
 > Justificativa da Escolha:
 
-Escolhemos Marie Curie por ter sido pioneira nos estudos da física nuclear e radioatividade, ela descobriu os elementos químicos polônio e rádio, provando que a radiação vinha do interior dos próprios átomos, além de ser a primeira pessoa e única mulher a ganhar dois Prêmios Nobel em áreas científicas distintas (Física e Química). Embora nosso foco seja a mecânica clássica das colisões, a física moderna e o estudo das partículas subatômicas dependem fundamentalmente da análise de colisões e da conservação do momento linear para mapear o universo invisível.
+Escolhemos Marie Curie por ter sido a pioneira nos estudos da física nuclear e da radioatividade, ela descobriu os elementos químicos polônio e rádio, provando que a radiação vinha do interior dos próprios átomos, além de ser a primeira pessoa e única mulher a ganhar dois Prêmios Nobel em áreas científicas distintas (Física e Química). Embora nosso foco seja a mecânica clássica das colisões, a física moderna e o estudo das partículas subatômicas dependem fundamentalmente da análise de colisões e da conservação do momento linear para mapear de forma mais abrangente o universo invisível.
 Apesar de não ter estudado colisões macroscópicas diretamente, seu trabalho pioneiro com partículas radioativas (emissão de partículas alfa, beta) forneceu as “balas” usadas nos primeiros experimentos de colisão e espalhamento em física atômica, como o experimento de espalhamento de Rutherford, que  usou fontes radioativas descobertas por ela. Além disso, é uma figura essencial para representar mulheres na ciência, e o grupo quis homenagear sua trajetória.
 
 > Fenômeno Físico:
