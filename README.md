@@ -160,8 +160,7 @@ em geral), Instagram (Stories e Reels), LinkedIn, TikTok e YouTube Shorts.
 **Dia 1** (Lançamento Oficial & Disparo Inicial):
 1. Disparo em massa do link oficial do canal nos grupos de WhatsApp das turmas de 
 Engenharia e Centros Acadêmicos da UERJ. 
-2. Postagem sincronizada dos 6 integrantes nos Stories do Instagram anunciando o 
-lançamento.
+2. Postagem sincronizada dos 6 integrantes nos Stories do Instagram anunciando o lançamento.
 
 **Dia 2 e 3** (Atração por Vídeo Curto e Redes Profissionais):
 1. Publicação de um Reels/TikTok/Shorts com o corte de 15 segundos do momento 
