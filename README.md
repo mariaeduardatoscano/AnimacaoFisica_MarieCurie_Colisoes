@@ -9,7 +9,7 @@ Giovana Menezes Teles Gomes - Matrícula: 202610076311
 
 Isadora Dias De Souza - Matrícula:202610413511 
 
-Karina Frota da Silveira Elliot  - Matrícula:
+Karina Frota da Silveira Elliot  - Matrícula:202610075811
 
 Maria Eduarda Toscano - Matrícula: 202420574811 
 
