@@ -3,12 +3,17 @@
 
 > Alunas: 
 
-Ana Aparecida Alves da Silva Maria,
-Giovana Menezes Teles Gomes,
-Isadora Dias De Souza,
-Karina Frota da Silveira Elliot,
+Ana Aparecida Alves da Silva Maria - Matrícula:
+
+Giovana Menezes Teles Gomes - Matrícula:
+
+Isadora Dias De Souza - Matrícula:
+
+Karina Frota da Silveira Elliot  - Matrícula:
+
 Maria Eduarda Toscano - Matrícula:202420574811 
-Rayssa Borges de Oliveira.
+
+Rayssa Borges de Oliveira - Matrícula:
 
 > Professora:
 
