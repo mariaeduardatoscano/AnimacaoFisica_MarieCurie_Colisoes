@@ -1,4 +1,4 @@
-**Marie Curie - Colisões** 
+**Projeto Marie Curie - Colisões** 
     **2026 – Rio de Janeiro**
 
 > Alunas: 
@@ -26,8 +26,8 @@ Tema: Colisões
 
 > Justificativa da Escolha:
 
-Escolhemos Marie Curie por ter sido a pioneira nos estudos da física nuclear e da radioatividade, ela descobriu os elementos químicos polônio e rádio, provando que a radiação vinha do interior dos próprios átomos, além de ser a primeira pessoa e única mulher a ganhar dois Prêmios Nobel em áreas científicas distintas (Física e Química). Embora nosso foco seja a mecânica clássica das colisões, a física moderna e o estudo das partículas subatômicas dependem fundamentalmente da análise de colisões e da conservação do momento linear para mapear de forma mais abrangente o universo invisível.
-Apesar de não ter estudado colisões macroscópicas diretamente, seu trabalho pioneiro com partículas radioativas (emissão de partículas alfa, beta) forneceu as “balas” usadas nos primeiros experimentos de colisão e espalhamento em física atômica, como o experimento de espalhamento de Rutherford, que  usou fontes radioativas descobertas por ela. Além disso, é uma figura essencial para representar mulheres na ciência, e o grupo quis homenagear sua trajetória.
+Escolhemos Marie Curie para representar nosso grupo por sua importância histórica para a Física e para a Química, especialmente por seus estudos pioneiros sobre a radioatividade e pela descoberta dos elementos polônio e rádio. Marie Curie foi a primeira pessoa a receber dois Prêmios Nobel em áreas científicas diferentes, sendo reconhecida com o Nobel de Física, em 1903, e o Nobel de Química, em 1911. Embora seu trabalho não tenha sido diretamente relacionado ao estudo de colisões macroscópicas, sua trajetória está profundamente ligada à investigação dos fenômenos físicos e à busca por compreender a estrutura e o comportamento da matéria. Além disso, sua história representa a participação e a contribuição das mulheres para o desenvolvimento da ciência, tornando sua escolha uma forma de homenagear seu legado científico.
+
 
 > Breve biografia de Marie Curie: 
 Marie Skłodowska Curie (1867–1934) foi uma física e química polonesa naturalizada francesa, reconhecida por seus estudos pioneiros sobre a radioatividade. Ao lado de Pierre Curie, pesquisou materiais radioativos e participou da descoberta dos elementos polônio e rádio. Em 1903, recebeu o Prêmio Nobel de Física e, em 1911, o Nobel de Química, tornando-se a primeira pessoa a receber dois Prêmios Nobel em diferentes áreas científicas. Seu trabalho contribuiu profundamente para o desenvolvimento da física e da química modernas e consolidou o estudo científico da radioatividade.
@@ -64,21 +64,19 @@ Ao final do vídeo, o espectador deverá ser capaz de:
 
 > Resumo da Física Abordada: 
 
-O projeto aborda colisões unidimensionais por meio dos princípios de conservação da quantidade de movimento linear e da energia cinética.
-
-O momento linear de um corpo é definido por:
+O projeto aborda colisões unidimensionais por meio dos princípios de conservação da quantidade de movimento linear e da energia cinética. O momento linear de um corpo é definido pelo produto entre sua massa e sua velocidade:
 
 $$
 p = mv
 $$
 
-Em um sistema isolado, o momento linear total é conservado:
+Em um sistema isolado, a quantidade de movimento linear total é conservada antes e depois da colisão:
 
 $$
-m_1v_{1i} + m_2v_{2i} = m_1v_{1f} + m_2v_{2f}
+m_1v_{1i}+m_2v_{2i}=m_1v_{1f}+m_2v_{2f}
 $$
 
-Nas colisões elásticas, além do momento linear, a energia cinética também é conservada:
+Nas colisões perfeitamente elásticas, além do momento linear, a energia cinética total também é conservada:
 
 $$
 K = \frac{1}{2}mv^2
@@ -88,13 +86,20 @@ $$
 K_i = K_f
 $$
 
-Nas colisões perfeitamente inelásticas, os corpos permanecem unidos após o impacto:
+Nas colisões perfeitamente inelásticas, os corpos permanecem unidos após o impacto e passam a apresentar uma velocidade final comum:
 
 $$
-m_1v_{1i} + m_2v_{2i} = (m_1+m_2)v_f
+m_1v_{1i}+m_2v_{2i}=(m_1+m_2)v_f
 $$
 
-Nesse caso, parte da energia cinética inicial é transformada em outras formas de energia, como calor, som e deformação. O coeficiente de restituição $e$ caracteriza a elasticidade da colisão, variando entre $e=0$, para colisões perfeitamente inelásticas, e $e=1$, para colisões perfeitamente elásticas.
+Nesse tipo de colisão, parte da energia cinética inicial é transformada em outras formas de energia, como calor, som e deformação. O coeficiente de restituição permite caracterizar a elasticidade da colisão:
+
+$$
+e=\frac{|v_{2f}-v_{1f}|}{|v_{1i}-v_{2i}|}
+$$
+
+Para uma colisão perfeitamente inelástica, $e=0$, enquanto para uma colisão perfeitamente elástica, $e=1$.
+
 
 
 
