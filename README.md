@@ -3,17 +3,17 @@
 
 > Alunas: 
 
-Ana Aparecida Alves da Silva Maria - Matrícula:
+Ana Aparecida Alves da Silva - Matrícula:202510075011
 
-Giovana Menezes Teles Gomes - Matrícula:
+Giovana Menezes Teles Gomes - Matrícula: 202610076311
 
-Isadora Dias De Souza - Matrícula:
+Isadora Dias De Souza - Matrícula:202610413511 
 
 Karina Frota da Silveira Elliot  - Matrícula:
 
 Maria Eduarda Toscano - Matrícula: 202420574811 
 
-Rayssa Borges de Oliveira - Matrícula:
+Rayssa Borges de Oliveira - Matrícula:202610409411
 
 > Professora:
 
@@ -223,6 +223,7 @@ A gestão das atividades do projeto foi realizada através do GitHub Projects, u
 > YouTube Analytics:
 
 Após sete dias da publicação, foram analisados os resultados de visualização do vídeo no YouTube.
+Período analisado: 01/10/2026 a 08/10/2026
 
 ![YouTube Analytics após 7 dias](COLOCAR_PRINT_DO_ANALYTICS)
 
@@ -311,6 +312,17 @@ Maria Eduarda Toscano
 xxxxxx
 
 
+
+
+ **> Canal da Disciplina:**
+
+O vídeo do projeto foi publicado no canal da disciplina no YouTube:
+
+[**Física na Tela — Canal da Disciplina**](https://youtube.com/@fisicanatela?si=86JY50qGjlmVxvKG)
+
+
+
+
 **Fontes de Pesquisa:**
 
 HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. **Fundamentos de Física: volume 1 – Mecânica**. 10. ed. Rio de Janeiro: LTC, 2016.
@@ -326,5 +338,12 @@ OPENSTAX. **8.3 Elastic and Inelastic Collisions**. Houston: OpenStax, 2020. Dis
 NOBEL PRIZE OUTREACH. **Marie Curie – Facts: Nobel Prize in Physics 1903**. NobelPrize.org, 2026. Disponível em: https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/. Acesso em: 26 ago. 2026.
 
 NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Biography of Marie Sklodowska Curie**. Gaithersburg: NIST, atualização em 4 fev. 2026. Disponível em: https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/marie-curie-and-nbs-radium-standards-biographies/biography. Acesso em: 26 ago. 2026.
+
+
+## > Licença:
+
+Este projeto está disponibilizado sob a licença **[definir licença]**.
+
+A licença será definida de acordo com os materiais disponibilizados neste repositório e com as condições estabelecidas para o projeto acadêmico.
 
 
