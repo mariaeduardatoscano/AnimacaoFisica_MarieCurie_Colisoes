@@ -265,37 +265,37 @@ Responsável pela divulgação: Integrantes do grupo Marie Curie.
 
 Após a publicação do vídeo, cada integrante realizou ações de divulgação utilizando diferentes canais de comunicação.
 
-### Ana Aparecida Alves da Silva Maria
+Ana Aparecida Alves da Silva Maria
 
 - [DESCREVER O QUE FOI FEITO ]
 - Canal utilizado: [INSTAGRAM / WHATSAPP / ETC.]
 - Público alcançado: [COLEGAS / FAMILIARES / GRUPOS ETC.]
 
-### Giovana Menezes Teles Gomes
+Giovana Menezes Teles Gomes
 
 - [DESCREVER O QUE FOI FEITO]
 - Canal utilizado: [COLOCAR]
 - Público alcançado: [COLOCAR]
 
-### Isadora Dias de Souza
+Isadora Dias de Souza
 
 - [DESCREVER O QUE FOI FEITO ]
 - Canal utilizado: [COLOCAR]
 - Público alcançado: [COLOCAR]
 
-### Karina Frota da Silveira Elliot
+Karina Frota da Silveira Elliot
 
 - [DESCREVER O QUE FOI FEITO ]
 - Canal utilizado: [COLOCAR]
 - Público alcançado: [COLOCAR]
 
-### Maria Eduarda Toscano
+Maria Eduarda Toscano
 
 - [DESCREVER O QUE FOI FEITO ]
 - Canal utilizado: [COLOCAR]
 - Público alcançado: [COLOCAR]
 
-### Rayssa Borges de Oliveira
+ Rayssa Borges de Oliveira
 
 - [DESCREVER O QUE FOI FEITO ]
 - Canal utilizado: [COLOCAR]
