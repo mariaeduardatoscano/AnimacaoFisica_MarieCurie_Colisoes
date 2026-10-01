@@ -11,7 +11,7 @@ Isadora Dias De Souza - Matrícula:
 
 Karina Frota da Silveira Elliot  - Matrícula:
 
-Maria Eduarda Toscano - Matrícula:202420574811 
+Maria Eduarda Toscano - Matrícula: 202420574811 
 
 Rayssa Borges de Oliveira - Matrícula:
 
@@ -98,6 +98,7 @@ $$
 Nesse caso, parte da energia cinética inicial é transformada em outras formas de energia, como calor, som e deformação. O coeficiente de restituição $e$ caracteriza a elasticidade da colisão, variando entre $e=0$, para colisões perfeitamente inelásticas, e $e=1$, para colisões perfeitamente elásticas.
 
 
+
  > Storyboard
 
 **Cena 01:**
@@ -178,7 +179,7 @@ O Coeficiente de Restituição (e)
 Demonstração e Exemplo Numérico Prático.
 - Tempo: 04:35 - 04:55 (20 segundos).
 - Transição: Fade para tom escuro.
-- Narração: “Vamos calcular! No nosso experimento real, com m1 = m2 = 0,2 kg e v1i = 20 m/s, a velocidade final cai para 1,0 m/s, dissipando 50% da energia.”
+- Narração: “Vamos calcular! No nosso experimento real, com m1 = m2 = 0,2 kg e v1i = 2,0 m/s, a velocidade final cai para 1,0 m/s, dissipando 50% da energia.”
 - Elementos Visuais: Tela dividida ao meio. Do lado esquerdo, o vídeo do experimento em câmera lenta no exato momento da batida. Do lado direito, a resolução algébrica passo a passo com os números do Halliday sendo destacados em amarelo.
 - Equações Matemáticas: vf = m1vi / m1 + m2 = 0,2 * 2,0 / 0,4 = 1,0 m/s e % perda = (1- Kf/ Ki) * 100% = 50%.
 
@@ -247,37 +248,20 @@ Responsável pela divulgação: Integrantes do grupo Marie Curie.
 
 
 **Fontes de Pesquisa:**
-- HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física,
-Volume 1: Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Capítulo 9: Centro de Massa
-e Momento Linear (pp. 235-260).
-- SEARS, Francis W.; ZEMANSKY, Mark W.; - YOUNG, Hugh D.; FREEDMAN,
-Roger A. Física I: Mecânica. 14. ed. São Paulo: Pearson, 2016.
-- NUSSENZVEIG , H. Moysés. Curso de Física Básica, Vol. 1: Mecânica. 5. ed. São
-Paulo: Blucher, 2013.
-- YOUNG, Hugh D.; FREEDMAN, Roger A. Sears e Zemansky: física I – mecânica.
-12. ed. São Paulo: Pearson Education do Brasil, 2008. Bbiblioteca.iftm.edu.br
-- HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentals of physics.
-12. ed. Hoboken: Wiley, 2022. Ppsrc.aapt.org
-- MOEBS, William; LING, Samuel J.; SANNY, Jeff. University physics volume 1.
-Houston: OpenStax, 2016. Disponível em: https://openstax.org/books/university-
-physics-volume-1. Acesso em: 26 ago. 2026. OpenStax
-- OPENSTAX. Physics: 8.3 Elastic and Inelastic Collisions. Houston: OpenStax, 2020.
-Disponível em: Acesso em: 26 ago. 2026. OOpenStax
-- MOEBS, William; LING, Samuel J.; SANNY, Jeff. University Physics Volume 1.
-Houston: OpenStax, 2016. Disponível em: OpenStax – University Physics Volume 1.
-Acesso em: 26 ago. 2026. OOpenStax
-- RESNICK, Robert; WALKER, Jearl;
-- HALLIDAY, David. Fundamentos de Física:
-volume 1 – Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Essa obra é indicada pela
-PUC-Rio para conteúdos de momento linear, conservação do momento e colisões.
-- YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica. 12. ed. São Paulo:
-Pearson, 2009. PPUC-Rio
-- NOBEL PRIZE OUTREACH. Marie Curie – Facts: Nobel Prize in Physics 1903.
-Stockholm: Nobel Prize Outreach, 2026. Disponível em: Nobel Prize – Marie Curie.
-Acesso em: 26 ago. 2026. PPrémio Nobel
-- NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST).
-Biography of Marie Sklodowska Curie. Gaithersburg: NIST, 2026. Disponível em:
-NIST – Biography of Marie Sklodowska Curie. Acesso em: 26 ago. 20
+
+HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. **Fundamentos de Física: volume 1 – Mecânica**. 10. ed. Rio de Janeiro: LTC, 2016.
+
+YOUNG, Hugh D.; FREEDMAN, Roger A. **Física I: Mecânica**. 14. ed. São Paulo: Pearson, 2016.
+
+NUSSENZVEIG, H. Moysés. **Curso de Física Básica: volume 1 – Mecânica**. 5. ed. São Paulo: Blucher, 2013.
+
+MOEBS, William; LING, Samuel J.; SANNY, Jeff. **University Physics Volume 1**. Houston: OpenStax, 2016. Disponível em: https://openstax.org/details/books/university-physics-volume-1. Acesso em: 26 ago. 2026.
+
+OPENSTAX. **8.3 Elastic and Inelastic Collisions**. Houston: OpenStax, 2020. Disponível em: https://openstax.org/books/physics/pages/8-3-elastic-and-inelastic-collisions. Acesso em: 26 ago. 2026.
+
+NOBEL PRIZE OUTREACH. **Marie Curie – Facts: Nobel Prize in Physics 1903**. NobelPrize.org, 2026. Disponível em: https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/. Acesso em: 26 ago. 2026.
+
+NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Biography of Marie Sklodowska Curie**. Gaithersburg: NIST, atualização em 4 fev. 2026. Disponível em: https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/marie-curie-and-nbs-radium-standards-biographies/biography. Acesso em: 26 ago. 2026.
 
 **Dashboard de Gestão do Projeto**
 A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
