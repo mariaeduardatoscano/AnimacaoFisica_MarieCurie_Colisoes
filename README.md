@@ -340,7 +340,7 @@ NOBEL PRIZE OUTREACH. **Marie Curie – Facts: Nobel Prize in Physics 1903**. No
 NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Biography of Marie Sklodowska Curie**. Gaithersburg: NIST, atualização em 4 fev. 2026. Disponível em: https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/marie-curie-and-nbs-radium-standards-biographies/biography. Acesso em: 26 ago. 2026.
 
 
-## > Licença:
+**> Licença:**
 
 Este projeto está disponibilizado sob a licença **[definir licença]**.
 
