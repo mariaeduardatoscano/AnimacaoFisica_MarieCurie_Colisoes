@@ -7,7 +7,7 @@ Ana Aparecida Alves da Silva Maria,
 Giovana Menezes Teles Gomes,
 Isadora Dias De Souza,
 Karina Frota da Silveira Elliot,
-Maria Eduarda Toscano e
+Maria Eduarda Toscano - Matrícula:202420574811 
 Rayssa Borges de Oliveira.
 
 > Professora:
@@ -24,6 +24,9 @@ Tema: Colisões
 Escolhemos Marie Curie por ter sido a pioneira nos estudos da física nuclear e da radioatividade, ela descobriu os elementos químicos polônio e rádio, provando que a radiação vinha do interior dos próprios átomos, além de ser a primeira pessoa e única mulher a ganhar dois Prêmios Nobel em áreas científicas distintas (Física e Química). Embora nosso foco seja a mecânica clássica das colisões, a física moderna e o estudo das partículas subatômicas dependem fundamentalmente da análise de colisões e da conservação do momento linear para mapear de forma mais abrangente o universo invisível.
 Apesar de não ter estudado colisões macroscópicas diretamente, seu trabalho pioneiro com partículas radioativas (emissão de partículas alfa, beta) forneceu as “balas” usadas nos primeiros experimentos de colisão e espalhamento em física atômica, como o experimento de espalhamento de Rutherford, que  usou fontes radioativas descobertas por ela. Além disso, é uma figura essencial para representar mulheres na ciência, e o grupo quis homenagear sua trajetória.
 
+> Breve biografia de Marie Curie: 
+Marie Skłodowska Curie (1867–1934) foi uma física e química polonesa naturalizada francesa, reconhecida por seus estudos pioneiros sobre a radioatividade. Ao lado de Pierre Curie, pesquisou materiais radioativos e participou da descoberta dos elementos polônio e rádio. Em 1903, recebeu o Prêmio Nobel de Física e, em 1911, o Nobel de Química, tornando-se a primeira pessoa a receber dois Prêmios Nobel em diferentes áreas científicas. Seu trabalho contribuiu profundamente para o desenvolvimento da física e da química modernas e consolidou o estudo científico da radioatividade.
+
 > Fenômeno Físico:
 
 Recorte: Conservação da Quantidade de Movimento Linear (p) e Variação da Energia
@@ -33,6 +36,12 @@ O projeto demonstrará, por meio de um experimento prático gravado e sobreposto
 animações/gráficos vetoriais, como o momento linear total é mantido constante em sistemas
 isolados, enquanto a energia cinética pode ser conservada ou dissipada dependendo da natureza
 do impacto.
+
+> Justificativa da Escolha do Recorte:
+
+Escolhemos analisar colisões unidimensionais porque esse recorte permite visualizar de forma clara dois princípios fundamentais da mecânica: a conservação da quantidade de movimento e o comportamento da energia cinética durante uma colisão.
+A comparação entre colisões elásticas e perfeitamente inelásticas permite observar como o momento linear pode ser conservado enquanto a energia cinética apresenta comportamentos diferentes dependendo do tipo de colisão.
+Além disso, o fenômeno pode ser reproduzido experimentalmente de maneira simples e visual, facilitando a relação entre teoria, cálculos e situações observáveis no cotidiano.
 
 > Público-Alvo:
 
@@ -46,6 +55,43 @@ Ao final do vídeo, o espectador deverá ser capaz de:
 1. Aplicar o Princípio de Conservação da Quantidade de Movimento Linear (P inicial = P final) em colisões unidimensionais de sistemas isolados.
 2. Diferenciar colisões elásticas (e = 1) e perfeitamente inelásticas (e = 0) pela análise da Energia Cinética (K) e do Coeficiente de Restituição (e).
 Calcular a velocidade final e a perda percentual de energia cinética em um experimento real gravado.
+
+
+
+> Resumo da Física Abordada: 
+
+O projeto aborda colisões unidimensionais por meio dos princípios de conservação da quantidade de movimento linear e da energia cinética.
+
+O momento linear de um corpo é definido por:
+
+$$
+p = mv
+$$
+
+Em um sistema isolado, o momento linear total é conservado:
+
+$$
+m_1v_{1i} + m_2v_{2i} = m_1v_{1f} + m_2v_{2f}
+$$
+
+Nas colisões elásticas, além do momento linear, a energia cinética também é conservada:
+
+$$
+K = \frac{1}{2}mv^2
+$$
+
+$$
+K_i = K_f
+$$
+
+Nas colisões perfeitamente inelásticas, os corpos permanecem unidos após o impacto:
+
+$$
+m_1v_{1i} + m_2v_{2i} = (m_1+m_2)v_f
+$$
+
+Nesse caso, parte da energia cinética inicial é transformada em outras formas de energia, como calor, som e deformação. O coeficiente de restituição $e$ caracteriza a elasticidade da colisão, variando entre $e=0$, para colisões perfeitamente inelásticas, e $e=1$, para colisões perfeitamente elásticas.
+
 
  > Storyboard
 
@@ -146,6 +192,13 @@ Encerramento e Créditos
 - Narração: “A Física não acontece apenas nos laboratórios. Ela está nos movimentos, nas batidas e nas situações que acontecem ao nosso redor. Basta parar, observar e fazer uma pergunta. E foi isso que Marie Curie nos ensinou: nunca deixar de buscar respostas.”
 - Elementos Visuais: Tela final de encerramento, estilo crédito de filme, com agradecimentos à professora Erika Cabral, referências bibliográficas do livro do Halliday, logo da UERJ e nome das integrantes do grupo. 
 
+> Vídeo Final:
+
+O vídeo final do projeto apresenta os conceitos de conservação da quantidade de movimento linear e energia cinética por meio da comparação entre colisões elásticas e perfeitamente inelásticas.
+
+ [Assistir ao vídeo no YouTube](COLOCAR_LINK_DO_VIDEO)
+
+
   > Estratégia de Divulgação:
 
 1. Público-alvo da divulgação: Estudantes de Engenharia da UERJ, turmas de Física 
@@ -182,13 +235,17 @@ algoritmo da plataforma.
 3. Captura final de tela do YouTube Analytics ao completar 7 dias para comprovação das 
 visualizações e montagem do relatório no README.
 
-Responsável pela divulgação: Integrantes do grupo Marie Curie8. 
+Responsável pela divulgação: Integrantes do grupo Marie Curie. 
+
+> Reprodução das Animações: 
+
+
 
 **Fontes de Pesquisa:**
 - HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. Fundamentos de Física,
 Volume 1: Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Capítulo 9: Centro de Massa
 e Momento Linear (pp. 235-260).
-- SEARS, Francis W.; ZEMANSKY, Mark W.; — - YOUNG, Hugh D.; FREEDMAN,
+- SEARS, Francis W.; ZEMANSKY, Mark W.; - YOUNG, Hugh D.; FREEDMAN,
 Roger A. Física I: Mecânica. 14. ed. São Paulo: Pearson, 2016.
 - NUSSENZVEIG , H. Moysés. Curso de Física Básica, Vol. 1: Mecânica. 5. ed. São
 Paulo: Blucher, 2013.
@@ -208,7 +265,6 @@ Acesso em: 26 ago. 2026. OOpenStax
 - HALLIDAY, David. Fundamentos de Física:
 volume 1 – Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. Essa obra é indicada pela
 PUC-Rio para conteúdos de momento linear, conservação do momento e colisões.
-PPUC-Rio
 - YOUNG, Hugh D.; FREEDMAN, Roger A. Física I: mecânica. 12. ed. São Paulo:
 Pearson, 2009. PPUC-Rio
 - NOBEL PRIZE OUTREACH. Marie Curie – Facts: Nobel Prize in Physics 1903.
@@ -219,6 +275,7 @@ Biography of Marie Sklodowska Curie. Gaithersburg: NIST, 2026. Disponível em:
 NIST – Biography of Marie Sklodowska Curie. Acesso em: 26 ago. 20
 
 **Dashboard de Gestão do Projeto**
+A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
 ![Dashboard Project Board](print_dashboard.png)
 
 **Link direto para o Project Board (Kanban Interativo):**
