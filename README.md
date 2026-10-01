@@ -201,7 +201,7 @@ Encerramento e Créditos
 
 O vídeo final do projeto apresenta os conceitos de conservação da quantidade de movimento linear e energia cinética por meio da comparação entre colisões elásticas e perfeitamente inelásticas.
 
- [Assistir ao vídeo no YouTube](COLOCAR_LINK_DO_VIDEO)
+ [Assistir ao vídeo no YouTube](https://youtu.be/vxbLyveH-Wo?is=rIEQXEc9ERZmCHoU)
 
 
  
