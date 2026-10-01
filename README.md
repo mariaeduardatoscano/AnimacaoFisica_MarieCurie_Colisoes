@@ -205,6 +205,18 @@ O vídeo final do projeto apresenta os conceitos de conservação da quantidade 
  [Assistir ao vídeo no YouTube](COLOCAR_LINK_DO_VIDEO)
 
 
+ 
+ **Dashboard de Gestão do Projeto**
+
+A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
+![Dashboard Project Board](print_dashboard.png)
+
+**Link direto para o Project Board (Kanban Interativo):**
+[Acessar o Project Board do Grupo Marie Curie no GitHub](https://github.com/users/mariaeduardatoscano/projects/3
+)
+
+
+
   > Estratégia de Divulgação:
 
 1. Público-alvo da divulgação: Estudantes de Engenharia da UERJ, turmas de Física 
