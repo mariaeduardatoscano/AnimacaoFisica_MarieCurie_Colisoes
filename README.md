@@ -59,8 +59,7 @@ Ao final do vídeo, o espectador deverá ser capaz de:
 
 1. Aplicar o Princípio de Conservação da Quantidade de Movimento Linear (P inicial = P final) em colisões unidimensionais de sistemas isolados.
 2. Diferenciar colisões elásticas (e = 1) e perfeitamente inelásticas (e = 0) pela análise da Energia Cinética (K) e do Coeficiente de Restituição (e).
-Calcular a velocidade final e a perda percentual de energia cinética em um experimento real gravado.
-
+3. Calcular a velocidade final e a perda percentual de energia cinética em um experimento real gravado.
 
 
 > Resumo da Física Abordada: 
@@ -180,7 +179,7 @@ Demonstração e Exemplo Numérico Prático.
 - Tempo: 04:35 - 04:55 (20 segundos).
 - Transição: Fade para tom escuro.
 - Narração: “Vamos calcular! No nosso experimento real, com m1 = m2 = 0,2 kg e v1i = 2,0 m/s, a velocidade final cai para 1,0 m/s, dissipando 50% da energia.”
-- Elementos Visuais: Tela dividida ao meio. Do lado esquerdo, o vídeo do experimento em câmera lenta no exato momento da batida. Do lado direito, a resolução algébrica passo a passo com os números do Halliday sendo destacados em amarelo.
+- Elementos Visuais: Tela dividida ao meio. Do lado esquerdo, o vídeo do experimento em câmera lenta no exato momento da batida. Do lado direito, a resolução algébrica passo a passo com os números sendo destacados em amarelo.
 - Equações Matemáticas: vf = m1vi / m1 + m2 = 0,2 * 2,0 / 0,4 = 1,0 m/s e % perda = (1- Kf/ Ki) * 100% = 50%.
 
 **Cena 09:** 
@@ -193,7 +192,7 @@ Quadro de Síntese Comparativo.
 
 **Cena 10:** 
 Encerramento e Créditos 
-- Tempo: 05:20 – 06:00 (40 segundos).
+- Tempo: 05:20 – 5:00 (20 segundos).
 - Transição: Fade Out gradual para o preto.
 - Narração: “A Física não acontece apenas nos laboratórios. Ela está nos movimentos, nas batidas e nas situações que acontecem ao nosso redor. Basta parar, observar e fazer uma pergunta. E foi isso que Marie Curie nos ensinou: nunca deixar de buscar respostas.”
 - Elementos Visuais: Tela final de encerramento, estilo crédito de filme, com agradecimentos à professora Erika Cabral, referências bibliográficas do livro do Halliday, logo da UERJ e nome das integrantes do grupo. 
