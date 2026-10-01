@@ -216,6 +216,11 @@ A gestão das atividades do projeto foi realizada através do GitHub Projects, u
 )
 
 
+> YouTube Analytics:
+
+Após sete dias da publicação, foram analisados os resultados de visualização do vídeo no YouTube.
+
+![YouTube Analytics após 7 dias](COLOCAR_PRINT_DO_ANALYTICS)
 
   > Estratégia de Divulgação:
 
@@ -255,8 +260,51 @@ visualizações e montagem do relatório no README.
 
 Responsável pela divulgação: Integrantes do grupo Marie Curie. 
 
-> Reprodução das Animações: 
 
+**> Relatório de Divulgação:** 
+
+Após a publicação do vídeo, cada integrante realizou ações de divulgação utilizando diferentes canais de comunicação.
+
+### Ana Aparecida Alves da Silva Maria
+
+- [DESCREVER O QUE FOI FEITO ]
+- Canal utilizado: [INSTAGRAM / WHATSAPP / ETC.]
+- Público alcançado: [COLEGAS / FAMILIARES / GRUPOS ETC.]
+
+### Giovana Menezes Teles Gomes
+
+- [DESCREVER O QUE FOI FEITO]
+- Canal utilizado: [COLOCAR]
+- Público alcançado: [COLOCAR]
+
+### Isadora Dias de Souza
+
+- [DESCREVER O QUE FOI FEITO ]
+- Canal utilizado: [COLOCAR]
+- Público alcançado: [COLOCAR]
+
+### Karina Frota da Silveira Elliot
+
+- [DESCREVER O QUE FOI FEITO ]
+- Canal utilizado: [COLOCAR]
+- Público alcançado: [COLOCAR]
+
+### Maria Eduarda Toscano
+
+- [DESCREVER O QUE FOI FEITO ]
+- Canal utilizado: [COLOCAR]
+- Público alcançado: [COLOCAR]
+
+### Rayssa Borges de Oliveira
+
+- [DESCREVER O QUE FOI FEITO ]
+- Canal utilizado: [COLOCAR]
+- Público alcançado: [COLOCAR]
+
+
+
+**> Reprodução das Animações:** 
+xxxxxx
 
 
 **Fontes de Pesquisa:**
@@ -274,13 +322,5 @@ OPENSTAX. **8.3 Elastic and Inelastic Collisions**. Houston: OpenStax, 2020. Dis
 NOBEL PRIZE OUTREACH. **Marie Curie – Facts: Nobel Prize in Physics 1903**. NobelPrize.org, 2026. Disponível em: https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/. Acesso em: 26 ago. 2026.
 
 NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Biography of Marie Sklodowska Curie**. Gaithersburg: NIST, atualização em 4 fev. 2026. Disponível em: https://www.nist.gov/pml/marie-curie-and-nbs-radium-standards/marie-curie-and-nbs-radium-standards-biographies/biography. Acesso em: 26 ago. 2026.
-
-**Dashboard de Gestão do Projeto**
-A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
-![Dashboard Project Board](print_dashboard.png)
-
-**Link direto para o Project Board (Kanban Interativo):**
-[Acessar o Project Board do Grupo Marie Curie no GitHub](https://github.com/users/mariaeduardatoscano/projects/3
-)
 
 
