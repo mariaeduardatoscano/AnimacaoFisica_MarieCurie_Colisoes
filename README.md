@@ -1,5 +1,5 @@
 **Projeto Marie Curie - Colisões** 
-    **2026 – Rio de Janeiro**
+    **2026 - Rio de Janeiro**
 
 > Alunas: 
 
