@@ -1,4 +1,4 @@
-**Projeto Marie Curie - Colisões** 
+# **Projeto Marie Curie - Colisões** 
     **2026 - Rio de Janeiro**
 
 > Alunas: 
@@ -24,15 +24,15 @@ Nome: Colisões Curie.
 Grupo: Marie Curie.
 Tema: Colisões
 
-> Justificativa da Escolha:
+## Justificativa da Escolha do Nome
 
 Escolhemos Marie Curie para representar nosso grupo por sua importância histórica para a Física e para a Química, especialmente por seus estudos pioneiros sobre a radioatividade e pela descoberta dos elementos polônio e rádio. Marie Curie foi a primeira pessoa a receber dois Prêmios Nobel em áreas científicas diferentes, sendo reconhecida com o Nobel de Física, em 1903, e o Nobel de Química, em 1911. Embora seu trabalho não tenha sido diretamente relacionado ao estudo de colisões macroscópicas, sua trajetória está profundamente ligada à investigação dos fenômenos físicos e à busca por compreender a estrutura e o comportamento da matéria. Além disso, sua história representa a participação e a contribuição das mulheres para o desenvolvimento da ciência, tornando sua escolha uma forma de homenagear seu legado científico.
 
 
-> Breve biografia de Marie Curie: 
+## Breve biografia de Marie Curie
 Marie Skłodowska Curie (1867–1934) foi uma física e química polonesa naturalizada francesa, reconhecida por seus estudos pioneiros sobre a radioatividade. Ao lado de Pierre Curie, pesquisou materiais radioativos e participou da descoberta dos elementos polônio e rádio. Em 1903, recebeu o Prêmio Nobel de Física e, em 1911, o Nobel de Química, tornando-se a primeira pessoa a receber dois Prêmios Nobel em diferentes áreas científicas. Seu trabalho contribuiu profundamente para o desenvolvimento da física e da química modernas e consolidou o estudo científico da radioatividade.
 
-> Fenômeno Físico:
+## Fenômeno Físico
 
 Recorte: Conservação da Quantidade de Movimento Linear (p) e Variação da Energia
 Cinética (K) em Colisões Unidimensionais (1D): Comparativo entre Colisões Elásticas e
@@ -42,18 +42,20 @@ animações/gráficos vetoriais, como o momento linear total é mantido constant
 isolados, enquanto a energia cinética pode ser conservada ou dissipada dependendo da natureza
 do impacto.
 
-> Justificativa da Escolha do Recorte:
+## Justificativa da Escolha do Recorte
 
 Escolhemos analisar colisões unidimensionais porque esse recorte permite visualizar de forma clara dois princípios fundamentais da mecânica: a conservação da quantidade de movimento e o comportamento da energia cinética durante uma colisão.
 A comparação entre colisões elásticas e perfeitamente inelásticas permite observar como o momento linear pode ser conservado enquanto a energia cinética apresenta comportamentos diferentes dependendo do tipo de colisão.
 Além disso, o fenômeno pode ser reproduzido experimentalmente de maneira simples e visual, facilitando a relação entre teoria, cálculos e situações observáveis no cotidiano.
 
-> Público-Alvo:
 
+## Público-Alvo
 Estudantes universitários de Engenharia, alunos do Ensino Médio em preparação para
 vestibulares, e entusiastas pela temática.
 
-> Objetivo Educacional:
+
+
+## Objetivo Educacional
 
 Ao final do vídeo, o espectador deverá ser capaz de:
 
@@ -62,7 +64,7 @@ Ao final do vídeo, o espectador deverá ser capaz de:
 3. Calcular a velocidade final e a perda percentual de energia cinética em um experimento real gravado.
 
 
-> Resumo da Física Abordada: 
+## Resumo da Física Abordada
 
 O projeto aborda colisões unidimensionais por meio dos princípios de conservação da quantidade de movimento linear e da energia cinética. O momento linear de um corpo é definido pelo produto entre sua massa e sua velocidade:
 
@@ -103,7 +105,7 @@ Para uma colisão perfeitamente inelástica, $e=0$, enquanto para uma colisão p
 
 
 
- > Storyboard
+## Storyboard
 
 **Cena 01:**
  Abertura e Apresentação do Tema
@@ -202,15 +204,16 @@ Encerramento e Créditos
 - Narração: “A Física não acontece apenas nos laboratórios. Ela está nos movimentos, nas batidas e nas situações que acontecem ao nosso redor. Basta parar, observar e fazer uma pergunta. E foi isso que Marie Curie nos ensinou: nunca deixar de buscar respostas.”
 - Elementos Visuais: Tela final de encerramento, estilo crédito de filme, com agradecimentos à professora Erika Cabral, referências bibliográficas do livro do Halliday, logo da UERJ e nome das integrantes do grupo. 
 
-> Vídeo Final:
 
+
+## Vídeo Final
 O vídeo final do projeto apresenta os conceitos de conservação da quantidade de movimento linear e energia cinética por meio da comparação entre colisões elásticas e perfeitamente inelásticas.
 
  [Assistir ao vídeo no YouTube](https://youtu.be/vxbLyveH-Wo?is=rIEQXEc9ERZmCHoU)
 
 
  
- **Dashboard de Gestão do Projeto**
+## Dashboard de Gestão do Projeto
 
 A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
 ![Dashboard Project Board](print_dashboard.png)
@@ -220,14 +223,15 @@ A gestão das atividades do projeto foi realizada através do GitHub Projects, u
 )
 
 
-> YouTube Analytics:
+## YouTube Analytics
 
 Após sete dias da publicação, foram analisados os resultados de visualização do vídeo no YouTube.
 Período analisado: 01/10/2026 a 08/10/2026
 
 ![YouTube Analytics após 7 dias](COLOCAR_PRINT_DO_ANALYTICS)
 
-  > Estratégia de Divulgação:
+
+## Estratégia de Divulgação
 
 1. Público-alvo da divulgação: Estudantes de Engenharia da UERJ, turmas de Física 
 Geral I, alunos do Ensino Médio e grupos acadêmicos de estudo. 
@@ -266,7 +270,7 @@ visualizações e montagem do relatório no README.
 Responsável pela divulgação: Integrantes do grupo Marie Curie. 
 
 
-**> Relatório de Divulgação:** 
+## Relatório de Divulgação
 
 Após a publicação do vídeo, cada integrante realizou ações de divulgação utilizando diferentes canais de comunicação.
 
@@ -308,13 +312,13 @@ Maria Eduarda Toscano
 
 
 
-**> Reprodução das Animações:** 
+## Reprodução da Animação
 xxxxxx
 
 
 
 
- **> Canal da Disciplina:**
+## Canal da Disciplina
 
 O vídeo do projeto foi publicado no canal da disciplina no YouTube:
 
@@ -323,7 +327,7 @@ O vídeo do projeto foi publicado no canal da disciplina no YouTube:
 
 
 
-**Fontes de Pesquisa:**
+## Fontes de Pesquisa
 
 HALLIDAY, David; RESNICK, Robert; WALKER, Jearl. **Fundamentos de Física: volume 1 – Mecânica**. 10. ed. Rio de Janeiro: LTC, 2016.
 
