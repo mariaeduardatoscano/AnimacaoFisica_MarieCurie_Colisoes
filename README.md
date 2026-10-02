@@ -313,9 +313,28 @@ Maria Eduarda Toscano
 
 
 ## Reprodução da Animação
-xxxxxx
+As animacoes foram criadas em **Remotion (React/TypeScript)**. O codigo usa o numero do quadro para controlar movimentos, opacidade, rotacao e aparicao dos textos. As cenas 08 e 09 usam elementos React, CSS e SVG, sem fotografias ou videos externos. Os projetos incluem `package.json` e `package-lock.json` para instalar as mesmas versoes das dependencias em outra maquina.
 
+### Requisitos e passos gerais
 
+1. Instalar Node.js e npm.
+2. Baixar ou clonar o projeto de codigo da cena desejada e abrir o terminal dentro da respectiva pasta.
+3. Executar `npm ci` para instalar as dependencias fixadas no `package-lock.json`.
+4. Executar `npm run dev` para abrir o Remotion Studio e examinar a animacao quadro a quadro.
+5. Executar `npm run lint` para conferir o codigo e `npm run render` para gerar o MP4, quando esse comando estiver disponivel no projeto.
+
+### Codigo por cena
+
+As duas animacoes foram feitas em **Remotion com React e TypeScript**. Posicoes, rotacoes, opacidades e destaques sao calculados a partir do numero do quadro, por meio de `useCurrentFrame()` e `interpolate`. Bolinhas, graficos, formulas e impactos sao desenhados com React, CSS e SVG; nao ha imagens reais nem videos externos nessas duas cenas.
+
+Para reproduzir em outra maquina, instale Node.js e npm. Em cada projeto de codigo, execute `npm ci`, `npm run dev` para abrir o Remotion Studio e `npm run render` para exportar o MP4. O comando `npm run lint` confere o codigo. As versoes das dependencias estao fixadas em `package-lock.json`.
+
+| Cena | Projeto de codigo | Composicao | Duracao |
+| --- | --- | --- | --- |
+| 08 | `exemplo-19s-github/` | `ExemploNumerico19s` | 570 quadros / 30 fps = 19 s |
+| 09 | `cena-09-github/` | `Cena09TresPaineisEscuro` | 750 quadros / 30 fps = 25 s |
+
+Cada pasta contem `README.md` com os comandos e `COMO_FOI_FEITO.md` com a explicacao do codigo e da fisica. `node_modules/` e `out/` sao gerados localmente e nao precisam ser enviados ao GitHub. Depois de publicar os projetos, inserir no trabalho os links reais dos repositorios; os nomes de pastas acima ainda sao referencias locais.
 
 
 ## Canal da Disciplina
