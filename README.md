@@ -365,8 +365,7 @@ NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY (NIST). **Biography of Marie Sklo
 
 **> Licença:**
 
-Este projeto está disponibilizado sob a licença **[definir licença]**.
+O código-fonte das animações deste projeto é disponibilizado sob a licença [MIT](LICENSE), que permite seu uso, cópia, modificação e redistribuição, inclusive para fins comerciais, desde que os avisos de direitos autorais e o texto da licença sejam mantidos.
 
-A licença será definida de acordo com os materiais disponibilizados neste repositório e com as condições estabelecidas para o projeto acadêmico.
-
+Esta licença se aplica ao código-fonte e à documentação de software abrangidos por ela. Não concede automaticamente direitos sobre vídeos, músicas, imagens, logotipos ou outros materiais de terceiros, que permanecem sujeitos às respectivas condições de uso e direitos autorais.
 
