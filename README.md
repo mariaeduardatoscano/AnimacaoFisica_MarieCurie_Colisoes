@@ -3,17 +3,17 @@
 
 > Alunas: 
 
-Ana Aparecida Alves da Silva - Matrícula:202510075011
+Ana Aparecida Alves da Silva - Matrícula: 202510075011
 
 Giovana Menezes Teles Gomes - Matrícula: 202610076311
 
-Isadora Dias De Souza - Matrícula:202610413511 
+Isadora Dias De Souza - Matrícula: 202610413511 
 
-Karina Frota da Silveira Elliot  - Matrícula:202610075811
+Karina Frota da Silveira Elliot  - Matrícula: 202610075811
 
 Maria Eduarda Toscano - Matrícula: 202420574811 
 
-Rayssa Borges de Oliveira - Matrícula:202610409411
+Rayssa Borges de Oliveira - Matrícula: 202610409411
 
 > Professora:
 
@@ -21,8 +21,11 @@ Rayssa Borges de Oliveira - Matrícula:202610409411
 
 > Nome e tema:
 Nome: Colisões Curie.
+
 Grupo: Marie Curie.
+
 Tema: Colisões
+
 
 ## Justificativa da Escolha do Nome
 
