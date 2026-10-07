@@ -219,6 +219,7 @@ O vídeo final do projeto apresenta os conceitos de conservação da quantidade 
 ## Dashboard de Gestão do Projeto
 
 A gestão das atividades do projeto foi realizada através do GitHub Projects, utilizando um quadro Kanban para acompanhamento das tarefas.
+![Dashboard Project Board](print-dash.png)
 ![Dashboard Project Board](print_dashboard.png)
 
 **Link direto para o Project Board (Kanban Interativo):**
