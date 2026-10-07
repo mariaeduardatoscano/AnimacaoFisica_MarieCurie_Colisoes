@@ -238,8 +238,7 @@ Período analisado: 01/10/2026 a 08/10/2026
 
 1. Público-alvo da divulgação: Estudantes de Engenharia da UERJ, turmas de Física 
 Geral I, alunos do Ensino Médio e grupos acadêmicos de estudo. 
-2. Canais de divulgação: WhatsApp (grupos da faculdade, grupos familiares e amigos 
-em geral), Instagram (Stories e Reels), LinkedIn, TikTok e YouTube Shorts.
+2. Canais de divulgação: WhatsApp (grupos da faculdade, grupos familiares e amigos em geral), Instagram (Stories e Reels), Facebook, TikTok e YouTube Shorts.
 3. Cronograma de Postagens:
    
 **Dia 1** (Lançamento Oficial & Disparo Inicial):
@@ -251,12 +250,11 @@ Engenharia e Centros Acadêmicos da UERJ.
 1. Publicação de um Reels/TikTok/Shorts com o corte de 15 segundos do momento 
 exato do impacto do experimento e o cálculo de 50% de perda de energia, com link 
 direcionando para o vídeo completo no YouTube. 
-2. Publicação no LinkedIn detalhando a metodologia do projeto acadêmico de Física I e 
+2. Publicação no Instagram detalhando a metodologia do projeto acadêmico de Física I e 
 simulação computacional.
 
 **Dia 4 e 5** (Fóruns Científicos e Engajamento Interativo):
-1. Postagem explicativa em fóruns de estudo e comunidades (Reddit r/fisica, Fórum 
-PiR2, canais de Discord de exatas). 
+1. Postagem explicativa em fóruns de estudo e comunidades
 2. Aplicação de enquetes interativas nos Stories do Instagram ("Para onde vai a energia 
 em uma colisão inelástica?") levando o público a assistir à resposta no vídeo. 
 3. Envio do link para monitores e professores de Física de ensino médio/graduação para 
@@ -279,39 +277,39 @@ Após a publicação do vídeo, cada integrante realizou ações de divulgação
 
 Ana Aparecida Alves da Silva Maria
 
-- [DESCREVER O QUE FOI FEITO ]
-- Canal utilizado: [INSTAGRAM / WHATSAPP / ETC.]
-- Público alcançado: [COLEGAS / FAMILIARES / GRUPOS ETC.]
+- [Compartilhamento do vídeo com contatos pessoais e divulgação do projeto.]
+- Canal utilizado: [WhatsApp e Facebook]
+- Público alcançado: [Colegas, familiares e grupos online com pessoas diversas.]
 
 Giovana Menezes Teles Gomes
 
-- [DESCREVER O QUE FOI FEITO]
-- Canal utilizado: [COLOCAR]
-- Público alcançado: [COLOCAR]
+- [Divulgação do vídeo e do projeto por meio de seus contatos e redes sociais.]
+- Canal utilizado: [ Instagram e WhatsApp.]
+- Público alcançado: [Amigos,familiares e contatos pessoais]
 
 Isadora Dias de Souza
 
-- [DESCREVER O QUE FOI FEITO ]
-- Canal utilizado: [COLOCAR]
-- Público alcançado: [COLOCAR]
+- [ Divulgação do vídeo e compartilhamento do projeto com seus contatos e publicação no TikTok com link encaminhando para o vídeo.]
+- Canal utilizado: [Instagram, WhatsApp, TikTok.]
+- Público alcançado: [Familiares, amigos, usuários diversos das redes sociais .]
 
 Karina Frota da Silveira Elliot
 
-- [DESCREVER O QUE FOI FEITO ]
-- Canal utilizado: [COLOCAR]
-- Público alcançado: [COLOCAR]
+- [Compartilhamento do vídeo com contatos pessoais, divulgação em grupos relacionados ao ambiente acadêmico.]
+- Canal utilizado: [WhatsApp e Instagram]
+- Público alcançado: [Colegas, familiares, grupos de estudo, entusiastas de física]
 
 Maria Eduarda Toscano
 
-- [DESCREVER O QUE FOI FEITO ]
-- Canal utilizado: [COLOCAR]
-- Público alcançado: [COLOCAR]
+- [Compartilhamento do vídeo e divulgação do projeto em seus contatos, grupos de estudo e do meio acadêmico e enquetes nas redes sociais com link do vídeo. 
+- Canal utilizado: [WhatsApp, Instagram e Facebook]
+- Público alcançado: [Amigos, familiares, colegas de familiares, grupos universitários]
 
  Rayssa Borges de Oliveira
 
-- [DESCREVER O QUE FOI FEITO ]
-- Canal utilizado: [COLOCAR]
-- Público alcançado: [COLOCAR]
+- [Compartilhamento do vídeo e divulgação do projeto entre conhecidos pessoais.]
+- Canal utilizado: [WhatsApp e Youtube Shorts]
+- Público alcançado: [Colegas do trabalho, amigos e familiares.]
 
 
 
