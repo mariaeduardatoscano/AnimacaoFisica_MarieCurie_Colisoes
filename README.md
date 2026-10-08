@@ -232,7 +232,7 @@ A gestão das atividades do projeto foi realizada através do GitHub Projects, u
 Após sete dias da publicação, foram analisados os resultados de visualização do vídeo no YouTube.
 Período analisado: 01/10/2026 a 08/10/2026
 
-![YouTube Analytics após 7 dias](COLOCAR_PRINT_DO_ANALYTICS)
+![YouTube Analytics após 7 dias](![Print da divulgação](24e3447a-0ab6-417b-b50f-6bfc5ba4d4eb.jpeg))
 
 
 ## Estratégia de Divulgação
@@ -278,39 +278,39 @@ Após a publicação do vídeo, cada integrante realizou ações de divulgação
 
 Ana Aparecida Alves da Silva Maria
 
-- [Compartilhamento do vídeo com contatos pessoais e divulgação do projeto.]
-- Canal utilizado: [WhatsApp e Facebook]
-- Público alcançado: [Colegas, familiares e grupos online com pessoas diversas.]
+- Compartilhamento do vídeo com contatos pessoais e divulgação do projeto.
+- Canal utilizado: WhatsApp e Facebook
+- Público alcançado: Colegas, familiares e grupos online com pessoas diversas.
 
 Giovana Menezes Teles Gomes
 
-- [Divulgação do vídeo e do projeto por meio de seus contatos e redes sociais.]
-- Canal utilizado: [ Instagram e WhatsApp.]
-- Público alcançado: [Amigos,familiares e contatos pessoais]
+- Divulgação do vídeo e do projeto por meio de seus contatos e redes sociais.
+- Canal utilizado: Instagram e WhatsApp.
+- Público alcançado: Amigos,familiares e contatos pessoais
 
 Isadora Dias de Souza
 
-- [ Divulgação do vídeo e compartilhamento do projeto com seus contatos e publicação no TikTok com link encaminhando para o vídeo.]
-- Canal utilizado: [Instagram, WhatsApp, TikTok.]
-- Público alcançado: [Familiares, amigos, usuários diversos das redes sociais .]
+- Divulgação do vídeo e compartilhamento do projeto com seus contatos e publicação no TikTok com link encaminhando para o vídeo.
+- Canal utilizado:Instagram, WhatsApp, TikTok.
+- Público alcançado: Familiares, amigos, usuários diversos das redes sociais.
 
 Karina Frota da Silveira Elliot
 
-- [Compartilhamento do vídeo com contatos pessoais, divulgação em grupos relacionados ao ambiente acadêmico.]
-- Canal utilizado: [WhatsApp e Instagram]
-- Público alcançado: [Colegas, familiares, grupos de estudo, entusiastas de física]
+- Compartilhamento do vídeo com contatos pessoais, divulgação em grupos relacionados ao ambiente acadêmico.
+- Canal utilizado: WhatsApp e Instagram
+- Público alcançado: Colegas, familiares, grupos de estudo, entusiastas de física
 
 Maria Eduarda Toscano
 
-- [Compartilhamento do vídeo e divulgação do projeto em seus contatos, grupos de estudo e do meio acadêmico e enquetes nas redes sociais com link do vídeo. 
-- Canal utilizado: [WhatsApp, Instagram e Facebook]
-- Público alcançado: [Amigos, familiares, colegas de familiares, grupos universitários]
+- Compartilhamento do vídeo e divulgação do projeto em seus contatos, grupos de estudo e do meio acadêmico e enquetes nas redes sociais com link do vídeo. 
+- Canal utilizado: WhatsApp, Instagram e Facebook
+- Público alcançado: Amigos, familiares, colegas de familiares, grupos universitários
 
  Rayssa Borges de Oliveira
 
-- [Compartilhamento do vídeo e divulgação do projeto entre conhecidos pessoais.]
-- Canal utilizado: [WhatsApp e Youtube Shorts]
-- Público alcançado: [Colegas do trabalho, amigos e familiares.]
+- Compartilhamento do vídeo e divulgação do projeto entre conhecidos pessoais.
+- Canal utilizado:WhatsApp e Youtube Shorts
+- Público alcançado:Colegas do trabalho, amigos e familiares.
 
 
 
