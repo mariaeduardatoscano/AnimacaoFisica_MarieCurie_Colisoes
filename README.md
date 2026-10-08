@@ -231,8 +231,11 @@ A gestão das atividades do projeto foi realizada através do GitHub Projects, u
 
 Após sete dias da publicação, foram analisados os resultados de visualização do vídeo no YouTube.
 Período analisado: 01/10/2026 a 08/10/2026
+Até o dia 08/10 ás 17 horas, obtivemos: 
+969 visualizações 
+233 likes 
 
-![YouTube Analytics após 7 dias ![Print da divulgação](24e3447a-0ab6-417b-b50f-6bfc5ba4d4eb.jpeg)
+ ![Print da divulgação](24e3447a-0ab6-417b-b50f-6bfc5ba4d4eb.jpeg)
 
 
 ## Estratégia de Divulgação
